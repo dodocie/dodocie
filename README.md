@@ -4,8 +4,8 @@ I'm Kiera, Web developer, with curiosity ʕ•͡-•ʔ
 
 ### Skills
 <div>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/webpack-%231e72b3.svg?logo=webpack&logoColor=white&style=flat-square" alt="Webpack" />
       <img src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vue.js&logoColor=%234fc08d&style=flat-square" alt="Vue.js" /><br/>  
