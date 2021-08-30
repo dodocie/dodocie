@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kiera, Web developer, with curiosity
+I'm Kiera, Web developer, with curiosity ʕ•͡-•ʔ
 
 ### Skills
 <div>
