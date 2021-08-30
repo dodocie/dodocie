@@ -1,4 +1,4 @@
-### Hi~ o(*￣▽￣*)ブ
+### Hi~ (´•ω •`)ノ
 
 I'm Kiera, Web developer, with curiosity ʕ•͡-•ʔ
 
